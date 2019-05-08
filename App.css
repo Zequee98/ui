@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  flex: 1;
+  margin: 0;
+  font-family: 'Open Sans', 'Montserrat', sans-serif;
+}
+
+.content {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
